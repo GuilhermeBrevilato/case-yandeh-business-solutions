@@ -1,0 +1,7 @@
+tipo_veiculo,total_entregas,entregas_atrasadas,probabilidade_atraso,atraso_medio_min,atraso_mediano_min
+Carreta_Sider,1582,1038,65.61,27.22,25.16
+Carreta_Bau,1628,1049,64.43,25.63,25.72
+Truck,1580,980,62.03,10.51,9.08
+Toco,1921,1086,56.53,5.39,4.29
+3/4,2251,1260,55.98,3.59,3.6
+VUC,2956,1636,55.35,2.49,3.12

@@ -1,0 +1,7 @@
+tipo_veiculo,total_entregas,ocupacao_media,ocupacao_mediana,ocupacao_minima,ocupacao_maxima,margem_bruta_media,probabilidade_atraso
+Toco,1921,58.8,59.33,15.17,100.0,275.6,56.53
+VUC,2956,58.09,59.0,15.0,100.0,133.65,55.35
+Carreta_Bau,1628,57.62,57.96,15.07,99.96,1618.37,64.43
+3/4,2251,57.51,57.75,15.0,100.0,175.47,55.98
+Carreta_Sider,1582,57.4,57.14,15.11,100.0,1650.46,65.61
+Truck,1580,57.14,57.21,15.0,99.93,443.75,62.03
